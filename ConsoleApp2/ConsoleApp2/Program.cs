@@ -41,7 +41,8 @@ namespace ConsoleApp2
                     Console.WriteLine("J1 Vencedor");
                     break;
                 }
-                if (verificaStatus(tabuleiro) == 2) { 
+                if (verificaStatus(tabuleiro) == 2)
+                {
                     Console.WriteLine("J2 Vencedor");
                     break;
                 }
@@ -67,14 +68,14 @@ namespace ConsoleApp2
 
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("{0} \t| {1} \t| {2}", tab[i,0], tab[i,1], tab[i,2]);
+                Console.WriteLine("{0} \t| {1} \t| {2}", tab[i, 0], tab[i, 1], tab[i, 2]);
             }
         }
 
         static bool add_peca(string peca, int l, int c, string[,] tab)
         {
-            
-            
+
+
             if ((tab[l, c] == "O") || (tab[l, c] == "X"))
             {
                 Console.WriteLine("ESPAÇO OCUPADO!!");
@@ -86,40 +87,75 @@ namespace ConsoleApp2
             }
 
             return false;
-            
-            
+
+
         }
 
         static int verificaStatus(string[,] tab)
         {
-           int contJ1 = 0, 
-              int  contJ2 = 0;
-           for (int l = 0; l < 3; l++)
-           {
+            int[] contJ1 = new int[8] { 0, 0, 0, 0, 0, 0, 0, 0 };
+            int[] contJ2 = new int[8] { 0, 0, 0, 0, 0, 0, 0, 0 };
+            for (int l = 0; l < 3; l++)
+            {
                 for (int c = 0; c < 3; c++)
                 {
-                    //Diagonal primária
-                    if (l==c)
+                    //Diagonal primária 0
+                    if (l == c)
                     {
                         if (tab[l, c] == "O")
                         {
-                            contJ2++;
+                            contJ2[0]++;
                         }
                         if (tab[l, c] == "X")
                         {
-                            contJ1++;
+                            contJ1[0]++;
                         }
                     }
-                    //linha
-                    if (tab[l,c] == "O") 
-                    { 
+                    //linha 1 = 2
+                    //if (tab[l, c] == "O")
+                    //{
+                    //    contJ2[2]++;
+                    //}
+                    //if (tab[l, c] == "X")
+                    //{
+                    //    contJ1[2]++;
+                    //}
+
+                    ////linha 2 = 3
+                    //if (tab[l, c] == "O")
+                    //{
+                    //    contJ2[3]++;
+                    //}
+                    //if (tab[l, c] == "X")
+                    //{
+                    //    contJ1[3]++;
+                    //}
+
+                    ////linha 3  = 4
+                    //if (tab[l, c] == "O")
+                    //{
+                    //    contJ2[4]++;
+                    //}
+                    //if (tab[l, c] == "X")
+                    //{
+                    //    contJ1[4]++;
+                    //}
+
+                    if ((tab[0,0] == tab [0,1]) && (tab[0,0] == tab[0,2]) && (tab[0,0] == tab[1,1]) && (tab[0,0] == tab[2,2]) && (tab[0,0] == tab[1,0]) && (tab[0,0] == tab[2,0]) && (tab[0,1] == tab[1,1]) && (tab[0,1] == tab[2,1]) && (tab[0,2] == tab[1,2]) && (tab[0,2] == tab[2,2]) && (tab[1,0] == tab[1,1]) && (tab[1,0] == tab[1,2]) && (tab[2,0] == tab[2,1]) && (tab[2,0] == tab[2,2]) && (tab[2,0] == tab[1,1]) && (tab[2,0] == tab[0,2]))
+
+                    {
 
                     }
                 }
-           }
+            }
 
-            if (contJ1 == 3) return 1;
-            if (contJ2 == 3) return 2;
+            for (int i = 0; i < 8; i++)
+            {
+                //if (contJ1[i] == 3) return 1;
+                //if (contJ2[i] == 3) return 2;
+
+                Console.WriteLine(i+" ->"+contJ1[i]);
+            }
 
             return 0;
         }
