@@ -230,8 +230,19 @@ namespace ConsoleApp3
             int i;
             do
             {
-                Console.Write("{0}\n>>", texto);
-                i = int.Parse(Console.ReadLine());
+                try
+                {
+                    Console.Write("{0}\n>>", texto);
+                    i = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    i = -1;
+                }
+                catch (OverflowException)
+                {
+                    i = -1;
+                }
             } while ((i < 0) || (i > 2));
             return i;
         }
