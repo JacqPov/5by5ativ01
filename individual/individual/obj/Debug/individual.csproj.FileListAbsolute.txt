@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\bin\Debug\individual.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\bin\Debug\individual.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\bin\Debug\individual.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\obj\Debug\individual.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\obj\Debug\individual.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\obj\Debug\individual.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\individual\individual\obj\Debug\individual.pdb
