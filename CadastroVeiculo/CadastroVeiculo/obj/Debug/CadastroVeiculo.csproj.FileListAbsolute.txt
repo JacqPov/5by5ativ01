@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\bin\Debug\CadastroVeiculo.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\bin\Debug\CadastroVeiculo.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\bin\Debug\CadastroVeiculo.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\obj\Debug\CadastroVeiculo.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\obj\Debug\CadastroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\obj\Debug\CadastroVeiculo.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\CadastroVeiculo\CadastroVeiculo\obj\Debug\CadastroVeiculo.pdb

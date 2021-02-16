@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\bin\Debug\exclasse.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\bin\Debug\exclasse.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\bin\Debug\exclasse.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\obj\Debug\exclasse.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\obj\Debug\exclasse.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\obj\Debug\exclasse.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\exclasse\exclasse\obj\Debug\exclasse.pdb
