@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\obj\Debug\PilhaModificacao.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\obj\Debug\PilhaModificacao.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\bin\Debug\PilhaModificacao.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\bin\Debug\PilhaModificacao.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\bin\Debug\PilhaModificacao.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\obj\Debug\PilhaModificacao.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\PilhaModificacao\PilhaModificacao\obj\Debug\PilhaModificacao.pdb
