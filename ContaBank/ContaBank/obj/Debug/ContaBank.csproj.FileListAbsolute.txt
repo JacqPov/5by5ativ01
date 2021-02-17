@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\obj\Debug\ContaBank.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\obj\Debug\ContaBank.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\bin\Debug\ContaBank.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\bin\Debug\ContaBank.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\bin\Debug\ContaBank.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\obj\Debug\ContaBank.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\ContaBank\ContaBank\obj\Debug\ContaBank.pdb
