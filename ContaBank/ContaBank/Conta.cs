@@ -33,9 +33,9 @@ namespace ContaBank
             this.Saldo += deposito;
         }
 
-        public void Transferir(double transferir)
-        {
+        //public void Transferir(double transferir)
+        //{
 
-        }
+        //}
     }
 }
