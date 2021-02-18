@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\bin\Debug\FilaModificacao.exe.config
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\bin\Debug\FilaModificacao.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\bin\Debug\FilaModificacao.pdb
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\obj\Debug\FilaModificacao.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\obj\Debug\FilaModificacao.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\obj\Debug\FilaModificacao.exe
+C:\Users\Jacqueline\source\repos\JacqPov\5by5ativ01\FilaModificacao\FilaModificacao\obj\Debug\FilaModificacao.pdb
